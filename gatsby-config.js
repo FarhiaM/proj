@@ -4,6 +4,7 @@ module.exports = {
 	    author: `Farhia Muse`,
 	    description: `Farhia Muse's personal blog site.`,
 	    siteUrl: `https://farhia-proj-site.netlify.app`,
+	    alternateSite: `https://farhia.netlify.app`,
 	    social: [
 	      {
 	        name: `Twitter`,
